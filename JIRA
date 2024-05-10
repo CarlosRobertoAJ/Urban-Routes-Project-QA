@@ -3,7 +3,7 @@
 <html>
 	<head>
 		<meta charset='UTF-8'>
-			<title>XML To HTML using codebeautify.org</title>
+			<title>JIRA</title>
 		</head>
 		<body>
 			<table border=1>
@@ -89,16 +89,7 @@
 						<th>channel.item.customfields.customfield.0.customfieldname</th>
 						<th>channel.item.customfields.customfield.0.customfieldvalues.customfieldvalue</th>
 						<th>channel.item.customfields.customfield.0._id</th>
-						<th>channel.item.customfields.customfield.0._key</th>
-						<th>channel.item.customfields.customfield.1.customfieldname</th>
-						<th>channel.item.customfields.customfield.1.customfieldvalues</th>
-						<th>channel.item.customfields.customfield.1._id</th>
-						<th>channel.item.customfields.customfield.1._key</th>
-						<th>channel.item.customfields.customfield.2.customfieldname</th>
-						<th>channel.item.customfields.customfield.2.customfieldvalues</th>
-						<th>channel.item.customfields.customfield.2._id</th>
-						<th>channel.item.customfields.customfield.2._key</th>
-						<th>_version</th>
+						<th>
 					</tr>
 				</thead>
 				<tbody>
@@ -290,3 +281,4 @@
 			</table>
 		</body>
 	</html>
+
