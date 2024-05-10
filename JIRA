@@ -1,1 +1,292 @@
 
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset='UTF-8'>
+			<title>XML To HTML using codebeautify.org</title>
+		</head>
+		<body>
+			<table border=1>
+				<thead>
+					<tr>
+						<th>channel.title</th>
+						<th>channel.link</th>
+						<th>channel.description</th>
+						<th>channel.language</th>
+						<th>channel.build-info.version</th>
+						<th>channel.build-info.build-number</th>
+						<th>channel.build-info.build-date</th>
+						<th>channel.item.title</th>
+						<th>channel.item.link</th>
+						<th>channel.item.project._id</th>
+						<th>channel.item.project._key</th>
+						<th>channel.item.project.__text</th>
+						<th>channel.item.project.toString</th>
+						<th>channel.item.description.p.0.b</th>
+						<th>channel.item.description.p.1</th>
+						<th>channel.item.description.p.2.b</th>
+						<th>channel.item.description.p.3</th>
+						<th>channel.item.description.p.4</th>
+						<th>channel.item.description.p.5</th>
+						<th>channel.item.description.p.6</th>
+						<th>channel.item.description.p.7</th>
+						<th>channel.item.description.p.8</th>
+						<th>channel.item.description.p.9</th>
+						<th>channel.item.description.p.10</th>
+						<th>channel.item.description.p.11</th>
+						<th>channel.item.description.p.12.b</th>
+						<th>channel.item.description.p.13</th>
+						<th>channel.item.description.p.14.b</th>
+						<th>channel.item.description.p.15</th>
+						<th>channel.item.environment.p</th>
+						<th>channel.item.key._id</th>
+						<th>channel.item.key.__text</th>
+						<th>channel.item.key.toString</th>
+						<th>channel.item.summary</th>
+						<th>channel.item.type._id</th>
+						<th>channel.item.type._iconUrl</th>
+						<th>channel.item.type.__text</th>
+						<th>channel.item.type.toString</th>
+						<th>channel.item.priority._id</th>
+						<th>channel.item.priority._iconUrl</th>
+						<th>channel.item.priority.__text</th>
+						<th>channel.item.priority.toString</th>
+						<th>channel.item.status._id</th>
+						<th>channel.item.status._iconUrl</th>
+						<th>channel.item.status._description</th>
+						<th>channel.item.status.__text</th>
+						<th>channel.item.status.toString</th>
+						<th>channel.item.statusCategory._id</th>
+						<th>channel.item.statusCategory._key</th>
+						<th>channel.item.statusCategory._colorName</th>
+						<th>channel.item.resolution._id</th>
+						<th>channel.item.resolution.__text</th>
+						<th>channel.item.resolution.toString</th>
+						<th>channel.item.assignee._accountid</th>
+						<th>channel.item.assignee.__text</th>
+						<th>channel.item.assignee.toString</th>
+						<th>channel.item.reporter._accountid</th>
+						<th>channel.item.reporter.__text</th>
+						<th>channel.item.reporter.toString</th>
+						<th>channel.item.labels</th>
+						<th>channel.item.created</th>
+						<th>channel.item.updated</th>
+						<th>channel.item.due</th>
+						<th>channel.item.votes</th>
+						<th>channel.item.watches</th>
+						<th>channel.item.issuelinks.issuelinktype.name</th>
+						<th>channel.item.issuelinks.issuelinktype.outwardlinks.issuelink.issuekey._id</th>
+						<th>channel.item.issuelinks.issuelinktype.outwardlinks.issuelink.issuekey.__text</th>
+						<th>channel.item.issuelinks.issuelinktype.outwardlinks.issuelink.issuekey.toString</th>
+						<th>channel.item.issuelinks.issuelinktype.outwardlinks._description</th>
+						<th>channel.item.issuelinks.issuelinktype._id</th>
+						<th>channel.item.attachments.attachment._id</th>
+						<th>channel.item.attachments.attachment._name</th>
+						<th>channel.item.attachments.attachment._size</th>
+						<th>channel.item.attachments.attachment._author</th>
+						<th>channel.item.attachments.attachment._created</th>
+						<th>channel.item.subtasks</th>
+						<th>channel.item.customfields.customfield.0.customfieldname</th>
+						<th>channel.item.customfields.customfield.0.customfieldvalues.customfieldvalue</th>
+						<th>channel.item.customfields.customfield.0._id</th>
+						<th>channel.item.customfields.customfield.0._key</th>
+						<th>channel.item.customfields.customfield.1.customfieldname</th>
+						<th>channel.item.customfields.customfield.1.customfieldvalues</th>
+						<th>channel.item.customfields.customfield.1._id</th>
+						<th>channel.item.customfields.customfield.1._key</th>
+						<th>channel.item.customfields.customfield.2.customfieldname</th>
+						<th>channel.item.customfields.customfield.2.customfieldvalues</th>
+						<th>channel.item.customfields.customfield.2._id</th>
+						<th>channel.item.customfields.customfield.2._key</th>
+						<th>_version</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Jira</td>
+						<td>https://themk667.atlassian.net</td>
+						<td>Este arquivo é uma representação XML de uma pendência</td>
+						<td>pt-pt</td>
+						<td>1001.0.0-SNAPSHOT</td>
+						<td>100252</td>
+						<td>09-05-2024</td>
+						<td>[BUG-46] Campo "Número de cartão" não aceita preencher "9999999999999" como válido</td>
+						<td>https://themk667.atlassian.net/browse/BUG-46</td>
+						<td>10000</td>
+						<td>BUG</td>
+						<td>BugReport3Sprint</td>
+						<td></td>
+						<td>Pré-condição:</td>
+						<td>Abra o site Urban Routes.</td>
+						<td>Descrições das etapas:</td>
+						<td>1- Preencha de forma correta o campo “De“ (exemplo: East 2nd Street, 601);</td>
+						<td>2- Preencha de formacorretaa o campo “Para“ (exemplo: 1300 1st St);</td>
+						<td>3- Selecione o campo “Personal”;</td>
+						<td>4- Selecione o campo “Compartilhamento de carro“;</td>
+						<td>5- Escolha um modo (exemplo: Casual);</td>
+						<td>6- Preencher campo “carteira de motorista“ de forma válida;</td>
+						<td>7- Selecione o campo “Método de pagamento“;</td>
+						<td>8- Selecione o campo “Adicionar cartão“;</td>
+						<td>9- Preencha campo “Código“ de forma inválida (exemplo: 9999999999999).</td>
+						<td>Resultado esperado:</td>
+						<td>O sistema não permite inserir outros símbolos ou números que não estejam conforme os requisitos.</td>
+						<td>Resutaldo real:</td>
+						<td>O sistema permite inserir outros símbolos ou números que não estejam conforme os requisitos.</td>
+						<td>Google Chrome 800 x 600</td>
+						<td>10045</td>
+						<td>BUG-46</td>
+						<td></td>
+						<td>Campo "Número de cartão" não aceita preencher "9999999999999" como válido</td>
+						<td>10005</td>
+						<td>https://themk667.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10303?size=medium</td>
+						<td>Problema</td>
+						<td></td>
+						<td>1</td>
+						<td>https://themk667.atlassian.net/images/icons/priorities/highest.svg</td>
+						<td>Highest</td>
+						<td></td>
+						<td>10000</td>
+						<td>https://themk667.atlassian.net/</td>
+						<td></td>
+						<td>A fazer</td>
+						<td></td>
+						<td>2</td>
+						<td>new</td>
+						<td>blue-gray</td>
+						<td>-1</td>
+						<td>Não resolvido</td>
+						<td></td>
+						<td>712020:4e47e640-8c75-4ab2-82c1-2270bec62b76</td>
+						<td>Carlos Roberto</td>
+						<td></td>
+						<td>712020:4e47e640-8c75-4ab2-82c1-2270bec62b76</td>
+						<td>Carlos Roberto</td>
+						<td></td>
+						<td></td>
+						<td>Tue, 5 Mar 2024 00:12:32 +0000</td>
+						<td>Fri, 10 May 2024 10:38:02 +0100</td>
+						<td></td>
+						<td>0</td>
+						<td>1</td>
+						<td>Cloners</td>
+						<td>10044</td>
+						<td>BUG-45</td>
+						<td></td>
+						<td>clones</td>
+						<td>10001</td>
+						<td>10139</td>
+						<td>11.png</td>
+						<td>71658</td>
+						<td>712020:4e47e640-8c75-4ab2-82c1-2270bec62b76</td>
+						<td>Tue, 5 Mar 2024 00:15:49 +0000</td>
+						<td></td>
+						<td>Rank</td>
+						<td>0|i0009z:</td>
+						<td>customfield_10019</td>
+						<td>com.pyxis.greenhopper.jira:gh-lexo-rank</td>
+						<td>Sprint</td>
+						<td></td>
+						<td>customfield_10020</td>
+						<td>com.pyxis.greenhopper.jira:gh-sprint</td>
+						<td>development</td>
+						<td></td>
+						<td>customfield_10000</td>
+						<td>com.atlassian.jira.plugins.jira-development-integration-plugin:devsummarycf</td>
+						<td>0.92</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+					</tr>
+				</tbody>
+			</table>
+		</body>
+	</html>
