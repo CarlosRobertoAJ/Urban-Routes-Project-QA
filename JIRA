@@ -277,6 +277,581 @@
 						<td>&nbsp</td>
 						<td>&nbsp</td>
 					</tr>
+					<tr>
+						<td>Jira</td>
+						<td>https://themk667.atlassian.net</td>
+						<td>Este arquivo é uma representação XML de uma pendência</td>
+						<td>pt-pt</td>
+						<td>1001.0.0-SNAPSHOT</td>
+						<td>100252</td>
+						<td>09-05-2024</td>
+						<td>[BUG-45] Campo "Número de cartão" não aceita preencher "000000000000"</td>
+						<td>10000</td>
+						<td>BUG</td>
+						<td>BugReport3Sprint</td>
+						<td></td>
+						<td>Pré-condição:</td>
+						<td>Abra o site Urban Routes.</td>
+						<td>Descrições das etapas:</td>
+						<td>1- Preencha de forma correta o campo “De“ (exemplo: East 2nd Street, 601);</td>
+						<td>2- Preencha de formacorretaa o campo “Para“ (exemplo: 1300 1st St);</td>
+						<td>3- Selecione o campo “Personal”;</td>
+						<td>4- Selecione o campo “Compartilhamento de carro“;</td>
+						<td>5- Escolha um modo (exemplo: Casual);</td>
+						<td>6- Preencher campo “carteira de motorista“ de forma válida;</td>
+						<td>7- Selecione o campo “Método de pagamento“;</td>
+						<td>8- Selecione o campo “Adicionar cartão“;</td>
+						<td>9- Preencha campo “Código“ de forma inválida (exemplo: 000000000000).</td>
+						<td>Resultado esperado:</td>
+						<td>O sistema não permite inserir outros símbolos ou números que não estejam conforme os requisitos</td>
+						<td>Resutaldo real:</td>
+						<td>O sistema permite inserir outros símbolos ou números que não estejam conforme os requisitos</td>
+						<td>Google Chrome 800 x 600</td>
+						<td>10044</td>
+						<td>BUG-45</td>
+						<td></td>
+						<td>Campo "Número de cartão" não aceita preencher "000000000000"</td>
+						<td>10005</td>
+						<td>https://themk667.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10303?size=medium</td>
+						<td>Problema</td>
+						<td></td>
+						<td>1</td>
+						<td>https://themk667.atlassian.net/images/icons/priorities/highest.svg</td>
+						<td>Highest</td>
+						<td></td>
+						<td>10000</td>
+						<td>https://themk667.atlassian.net/</td>
+						<td></td>
+						<td>A fazer</td>
+						<td></td>
+						<td>2</td>
+						<td>new</td>
+						<td>blue-gray</td>
+						<td>-1</td>
+						<td>Não resolvido</td>
+						<td></td>
+						<td>-1</td>
+						<td>Sem responsável</td>
+						<td></td>
+						<td>712020:4e47e640-8c75-4ab2-82c1-2270bec62b76</td>
+						<td>Carlos Roberto</td>
+						<td></td>
+						<td></td>
+						<td>Tue, 5 Mar 2024 00:08:13 +0000</td>
+						<td>Fri, 10 May 2024 12:59:33 +0100</td>
+						<td></td>
+						<td>0</td>
+						<td>1</td>
+						<td>Cloners</td>
+						<td>10043</td>
+						<td>BUG-44</td>
+						<td></td>
+						<td>clones</td>
+						<td>10045</td>
+						<td>BUG-46</td>
+						<td></td>
+						<td>is cloned by</td>
+						<td>10001</td>
+						<td>10137</td>
+						<td>10.png</td>
+						<td>52852</td>
+						<td>712020:4e47e640-8c75-4ab2-82c1-2270bec62b76</td>
+						<td>Tue, 5 Mar 2024 00:11:36 +0000</td>
+						<td></td>
+						<td>Rank</td>
+						<td>0|i0009r:</td>
+						<td>customfield_10019</td>
+						<td>com.pyxis.greenhopper.jira:gh-lexo-rank</td>
+						<td>Sprint</td>
+						<td></td>
+						<td>customfield_10020</td>
+						<td>com.pyxis.greenhopper.jira:gh-sprint</td>
+						<td>development</td>
+						<td></td>
+						<td>customfield_10000</td>
+						<td>com.atlassian.jira.plugins.jira-development-integration-plugin:devsummarycf</td>
+						<td>0.92</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+					</tr>
+					<tr>
+						<td>Jira</td>
+						<td>https://themk667.atlassian.net</td>
+						<td>Este arquivo é uma representação XML de uma pendência</td>
+						<td>pt-pt</td>
+						<td>1001.0.0-SNAPSHOT</td>
+						<td>100252</td>
+						<td>09-05-2024</td>
+						<td>[BUG-44] Campo "Código" não aceita preencher "100" como válido</td>
+						<td>https://themk667.atlassian.net/browse/BUG-44</td>
+						<td>10000</td>
+						<td>BUG</td>
+						<td>BugReport3Sprint</td>
+						<td></td>
+						<td>Pré-condição:</td>
+						<td>Abra o site Urban Routes.</td>
+						<td>Descrições das etapas:</td>
+						<td>1- Preencha de forma correta o campo “De“ (exemplo: East 2nd Street, 601);</td>
+						<td>2- Preencha de formacorretaa o campo “Para“ (exemplo: 1300 1st St);</td>
+						<td>3- Selecione o campo “Personal”;</td>
+						<td>4- Selecione o campo “Compartilhamento de carro“;</td>
+						<td>5- Escolha um modo (exemplo: Casual);</td>
+						<td>6- Preencher campo “carteira de motorista“ de forma válida;</td>
+						<td>7- Selecione o campo “Método de pagamento“;</td>
+						<td>8- Selecione o campo “Adicionar cartão“;</td>
+						<td>9- Preencha campo “Código“ de forma inválida (exemplo: 100).</td>
+						<td>Resultado esperado:</td>
+						<td>O sistema não permite inserir outros símbolos ou números que não estejam conforme os requisitos</td>
+						<td>Resutaldo real:</td>
+						<td>O sistema permite inserir outros símbolos ou números que não estejam conforme os requisitos</td>
+						<td>Google Chrome 800 x 600</td>
+						<td>10043</td>
+						<td>BUG-44</td>
+						<td></td>
+						<td>Campo "Código" não aceita preencher "100" como válido</td>
+						<td>10005</td>
+						<td>https://themk667.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10303?size=medium</td>
+						<td>Problema</td>
+						<td></td>
+						<td>1</td>
+						<td>https://themk667.atlassian.net/images/icons/priorities/highest.svg</td>
+						<td>Highest</td>
+						<td></td>
+						<td>10000</td>
+						<td>https://themk667.atlassian.net/</td>
+						<td></td>
+						<td>A fazer</td>
+						<td></td>
+						<td>2</td>
+						<td>new</td>
+						<td>blue-gray</td>
+						<td>-1</td>
+						<td>Não resolvido</td>
+						<td></td>
+						<td>-1</td>
+						<td>Sem responsável</td>
+						<td></td>
+						<td>712020:4e47e640-8c75-4ab2-82c1-2270bec62b76</td>
+						<td>Carlos Roberto</td>
+						<td></td>
+						<td></td>
+						<td>Tue, 5 Mar 2024 00:00:37 +0000</td>
+						<td>Tue, 5 Mar 2024 00:08:13 +0000</td>
+						<td></td>
+						<td>0</td>
+						<td>1</td>
+						<td>Cloners</td>
+						<td>10042</td>
+						<td>BUG-43</td>
+						<td></td>
+						<td>clones</td>
+						<td>10044</td>
+						<td>BUG-45</td>
+						<td></td>
+						<td>is cloned by</td>
+						<td>10001</td>
+						<td>10135</td>
+						<td>9.png</td>
+						<td>75861</td>
+						<td>712020:4e47e640-8c75-4ab2-82c1-2270bec62b76</td>
+						<td>Tue, 5 Mar 2024 00:03:33 +0000</td>
+						<td></td>
+						<td>Rank</td>
+						<td>0|i0009j:</td>
+						<td>customfield_10019</td>
+						<td>com.pyxis.greenhopper.jira:gh-lexo-rank</td>
+						<td>Sprint</td>
+						<td></td>
+						<td>customfield_10020</td>
+						<td>com.pyxis.greenhopper.jira:gh-sprint</td>
+						<td>development</td>
+						<td></td>
+						<td>customfield_10000</td>
+						<td>com.atlassian.jira.plugins.jira-development-integration-plugin:devsummarycf</td>
+						<td>0.92</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+					</tr>
+					<tr>
+						<td>Jira</td>
+						<td>https://themk667.atlassian.net</td>
+						<td>Este arquivo é uma representação XML de uma pendência</td>
+						<td>pt-pt</td>
+						<td>1001.0.0-SNAPSHOT</td>
+						<td>100252</td>
+						<td>09-05-2024</td>
+						<td>[BUG-43] Campo "Código" não aceita preencher "00"</td>
+						<td>https://themk667.atlassian.net/browse/BUG-43</td>
+						<td>10000</td>
+						<td>BUG</td>
+						<td>BugReport3Sprint</td>
+						<td></td>
+						<td>Pré-condição:</td>
+						<td>Abra o site Urban Routes.</td>
+						<td>Descrições das etapas:</td>
+						<td>1- Preencha de forma correta o campo “De“ (exemplo: East 2nd Street, 601);</td>
+						<td>2- Preencha de formacorretaa o campo “Para“ (exemplo: 1300 1st St);</td>
+						<td>3- Selecione o campo “Personal”;</td>
+						<td>4- Selecione o campo “Compartilhamento de carro“;</td>
+						<td>5- Escolha um modo (exemplo: Casual);</td>
+						<td>6- Preencher campo “carteira de motorista“ de forma válida;</td>
+						<td>7- Selecione o campo “Método de pagamento“;</td>
+						<td>8- Selecione o campo “Adicionar cartão“;</td>
+						<td>9- Preencha campo “Código“ de forma inválida (exemplo: 00).</td>
+						<td>Resultado esperado:</td>
+						<td>O sistema não permite inserir outros símbolos ou números que não estejam conforme os requisitos</td>
+						<td>Resutaldo real:</td>
+						<td>O sistema permite inserir outros símbolos ou números que não estejam conforme os requisitos</td>
+						<td>Google Chrome 800 x 600</td>
+						<td>10042</td>
+						<td>BUG-43</td>
+						<td></td>
+						<td>Campo "Código" não aceita preencher "00"</td>
+						<td>10005</td>
+						<td>https://themk667.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10303?size=medium</td>
+						<td>Problema</td>
+						<td></td>
+						<td>1</td>
+						<td>https://themk667.atlassian.net/images/icons/priorities/highest.svg</td>
+						<td>Highest</td>
+						<td></td>
+						<td>10000</td>
+						<td>https://themk667.atlassian.net/</td>
+						<td></td>
+						<td>A fazer</td>
+						<td></td>
+						<td>2</td>
+						<td>new</td>
+						<td>blue-gray</td>
+						<td>-1</td>
+						<td>Não resolvido</td>
+						<td></td>
+						<td>-1</td>
+						<td>Sem responsável</td>
+						<td></td>
+						<td>712020:4e47e640-8c75-4ab2-82c1-2270bec62b76</td>
+						<td>Carlos Roberto</td>
+						<td></td>
+						<td></td>
+						<td>Mon, 4 Mar 2024 23:56:33 +0000</td>
+						<td>Fri, 10 May 2024 13:22:05 +0100</td>
+						<td></td>
+						<td>0</td>
+						<td>1</td>
+						<td>Cloners</td>
+						<td>10041</td>
+						<td>BUG-42</td>
+						<td></td>
+						<td>clones</td>
+						<td>10043</td>
+						<td>BUG-44</td>
+						<td></td>
+						<td>is cloned by</td>
+						<td>10001</td>
+						<td>10133</td>
+						<td>8.png</td>
+						<td>70211</td>
+						<td>712020:4e47e640-8c75-4ab2-82c1-2270bec62b76</td>
+						<td>Mon, 4 Mar 2024 23:58:50 +0000</td>
+						<td></td>
+						<td>Rank</td>
+						<td>0|i0009b:</td>
+						<td>customfield_10019</td>
+						<td>com.pyxis.greenhopper.jira:gh-lexo-rank</td>
+						<td>Sprint</td>
+						<td></td>
+						<td>customfield_10020</td>
+						<td>com.pyxis.greenhopper.jira:gh-sprint</td>
+						<td>development</td>
+						<td></td>
+						<td>customfield_10000</td>
+						<td>com.atlassian.jira.plugins.jira-development-integration-plugin:devsummarycf</td>
+						<td>0.92</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+						<td>&nbsp</td>
+					</tr>
 				</tbody>
 			</table>
 		</body>
