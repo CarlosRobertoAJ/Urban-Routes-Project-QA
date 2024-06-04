@@ -1,18 +1,19 @@
 
 # Urban.Routes - Q.A vision
 
-Bem-vindo ao repositório Urban Routes um aplicativo de transportes. Este projeto foi desenvolvido durante o curso de QA da TripleTen. O repositório contém diversos recursos para auxiliar nos testes e garantir a qualidade da aplicação.
+Welcome to the Urban Routes repository, a transportation app. This project was developed during the QA course at TripleTen. The repository contains various resources to assist with testing and ensure the quality of the application.
 
-# Recursos
-Fluxograma:
-Explore o fluxograma para compreender visualmente o comportamento e a interação entre os diferentes módulos do Urban.Routes.
+# Resources
 
-Relatórios de Bugs no Jira:
-Acesse os relatórios de bugs no Jira para relatar e rastrear problemas identificados durante os testes. https://themk667.atlassian.net/jira/software/c/projects/BUG/issues
-Utilize o mapa mental como uma referência visual para planejar e executar os testes de forma abrangente.
+Flowchart:
+Explore the flowchart to visually understand the behavior and interaction between the different modules of Urban Routes.
 
-Testes de Classe de Equivalência e Limites:
-Encontre os casos de teste que exploram diferentes classes de equivalência e limites para garantir uma cobertura completa e robusta.
+Bug Reports in Jira:
+Access the bug reports in Jira to report and track issues identified during testing. https://themk667.atlassian.net/jira/software/c/projects/BUG/issues
+Use the mind map as a visual reference to plan and execute tests comprehensively.
 
-Testes de Interface/checklists/funcionalidade e Lógica:
-Encontre os casos de teste que exploram a interface, a funcionalidade e a lógica do aplicativo.
+Equivalence Class and Boundary Testing:
+Find the test cases that explore different equivalence classes and boundaries to ensure complete and robust coverage.
+
+Interface/Checklist/Functionality and Logic Testing:
+Find the test cases that explore the app's interface, functionality, and logic.
